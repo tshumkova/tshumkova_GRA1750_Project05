@@ -1,0 +1,214 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#background{
+	width: 1024px;
+	margin: 0 auto;
+	}
+nav ul {
+	list-style-type: none;
+}
+nav ul li{
+	display: inline-block;
+	font-size: 12pt;
+	font-family: Arial bold;
+	color: #309f3f;
+	text-align: center;
+}
+nav{
+	background-color: white;
+	width: 750px;
+	height: 45px;
+	margin: 0 auto;
+}
+.logo {
+	width: 500px;
+	margin: 0 auto;
+	position: relative;
+	top: -560px;
+	opacity: 0.75;
+}
+#text {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 9.5pt;
+	font-family: Arial black; 
+	text-align: center;
+	top: -577px;
+	position: relative;
+	padding-bottom: 20px;
+}
+.about {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: black;
+	font-size: 8pt;
+	font-family: Arial; 
+	text-align: center;
+	position: relative;
+	top: 10px;
+	padding-right: -20px;
+	padding-left: -20px;
+}
+a.highlight:hover {
+    color: black;
+}
+#footer{
+	background: white;
+	width: 160px;
+	margin: 0 auto;
+	top: -540px;
+	position: relative;
+	padding-bottom: 20px;
+}
+#background-two{
+	width: 1024px;
+	margin: 0 auto;
+	}
+#ice-cream{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -550px;
+}
+#footertwo{
+	background: white;
+	width: 160px;
+	margin: 0 auto;
+	top: -577px;
+	position: relative;
+}
+#texttwo {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 9.5pt;
+	font-family: Arial black; 
+	text-align: center;
+	top: -577px;
+	position: relative;
+	padding-bottom: 10px;
+}
+#bakery{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -1115px;
+}
+#items{
+	width: 500px;
+	height: 600px;
+	margin: 0 auto;
+	position: relative;
+	top: 30px;
+	text-align: center;
+}
+#coffee{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -2102px;
+}
+.coffeeitems{
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 7.5pt;
+	font-family: Arial; 
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 5pt;
+}
+#background-three{
+	width: 1024px;
+	margin: 0 auto;
+	}
+#background-four{
+	width: 1024px;
+	margin: 0 auto;
+	}
+.sandwichesitems{
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 8pt;
+	font-family: Arial; 
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 5pt;
+}
+#background-five{
+	width: 1024px;
+	margin: 0 auto;
+	}
+#textfive {
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	opacity: 0.75;
+	color: #309f3f;
+	font-size: 9.5pt;
+	font-family: Arial black; 
+	text-align: center;
+	top: -576px;
+	position: relative;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	left: 10px;
+}
+#sandwiches{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -2670px;
+}
+#logo5{
+	width: 500px;
+	margin: 0 auto;
+	position: relative;
+	top: -560px;
+	opacity: 0.75;
+	text-align: center;
+}
+#background-six{
+	width: 1024px;
+	margin: 0 auto;
+	}
+#hours{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -3205px;
+}
+.hoursitems{
+	background: white;
+	width: 500px;
+	margin: 0 auto;
+	color: #309f3f;
+	font-size: 10pt;
+	font-family: Arial; 
+	text-align: center;
+	top: 20px;
+	position: relative;
+	padding-bottom: 20px;
+	line-height: 5pt;
+	}
+	iframe {
+		position: relative;
+		left: -320px;
+		top: -190px;
+	}
